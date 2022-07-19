@@ -1,3 +1,5 @@
 this is Red and Black color
 White
 Yellow
+Blue
+Orange
